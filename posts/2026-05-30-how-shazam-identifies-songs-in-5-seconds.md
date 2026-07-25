@@ -1,18 +1,3 @@
----
-title: "How Shazam Identifies Songs in 5 Seconds"
-date: "2026-07-20"
-original_date: "2026-05-30"
-description: "A practical walkthrough of audio fingerprinting: turning noisy sound into spectrogram peaks, compact hashes, and fast database matches."
-tags:
-  - shazam
-  - audio-fingerprinting
-  - signal-processing
-  - python
-  - pycon
-image: "https://miro.medium.com/v2/resize:fit:1400/1*87QlQ0ViaVox8uEviWoNag.png"
-source: "https://medium.com/@ozgecinko/how-shazam-identifies-songs-in-5-seconds-32607d45303b"
----
-
 # How Shazam Identifies Songs in 5 Seconds
 
 ![A stylized audio fingerprint constellation with a Shazam-inspired blue palette.](https://miro.medium.com/v2/resize:fit:1400/1*87QlQ0ViaVox8uEviWoNag.png)

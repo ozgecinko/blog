@@ -1,14 +1,42 @@
-[
-  {
-    "slug": "how-shazam-identifies-songs-in-5-seconds",
-    "file": "2026-05-30-how-shazam-identifies-songs-in-5-seconds.md",
-    "title": "How Shazam Identifies Songs in 5 Seconds",
-    "date": "2026-05-30",
-    "category": "Artificial Intelligence",
-    "tags": [
-      "audio",
-      "python"
-    ],
-    "excerpt": "Turning a few noisy seconds of sound into a constellation of stars."
+{
+  "posts": [
+    {
+      "slug": "how-shazam-identifies-songs-in-5-seconds",
+      "file": "2026-05-30-how-shazam-identifies-songs-in-5-seconds.md",
+      "title": "How Shazam Identifies Songs in 5 Seconds",
+      "date": "2026-05-30",
+      "series": null,
+      "part": null,
+      "summary": "Turning a few noisy seconds of sound into a constellation of stars.",
+      "tags": [
+        "audio",
+        "python"
+      ],
+      "minutes": 4,
+      "draft": false
+    }
+  ],
+  "series": {
+    "ai-archaeology": {
+      "name": "AI Archaeology",
+      "description": "AI history, dug up one layer at a time",
+      "parts": 7
+    },
+    "fiction-to-function": {
+      "name": "Fiction to Function",
+      "description": "a story idea, built into a real system"
+    },
+    "plateau-coach": {
+      "name": "Plateau Coach",
+      "description": "my road from B2 to C1"
+    }
+  },
+  "concepts": {
+    "spectrogram": {
+      "title": "Spectrogram",
+      "tag": "concept",
+      "formula": "STFT(x)[t, f] = Σ x[n] · w[n − t] · e^(−i2πfn)",
+      "text": "A picture of sound: time runs left to right, frequency bottom to top, and brightness shows how loud each frequency is at each moment."
+    }
   }
-]
+}

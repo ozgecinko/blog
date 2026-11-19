@@ -3,7 +3,7 @@ name: Build posts index
 on:
   push:
     branches: [main]
-    paths: ["posts/**/*.md", "scripts/build-index.mjs"]
+    paths: ["posts/**/*.md", "concepts/**/*.md", "series.yml", "scripts/build-index.mjs"]
   workflow_dispatch:
 
 permissions:

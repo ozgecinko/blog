@@ -1,4 +1,4 @@
-# blog
+# Blog Posts
 
 The writing behind **ozgecinko.com/logs**. The site reads this repo when it builds,
 so pushing here is publishing.

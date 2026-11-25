@@ -1,9 +1,9 @@
 ---
 title: How Shazam Identifies Songs in 5 Seconds
-category: Artificial Intelligence
-tags: [audio, python]
 summary: Turning a few noisy seconds of sound into a constellation of stars.
 date: 2026-05-30
+series: hardware-whispers
+lang: en
 ---
 
 # How Shazam Identifies Songs in 5 Seconds

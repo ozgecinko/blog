@@ -5,21 +5,20 @@
       "file": "2026-05-30-how-shazam-identifies-songs-in-5-seconds.md",
       "title": "How Shazam Identifies Songs in 5 Seconds",
       "date": "2026-05-30",
-      "series": null,
+      "series": "hardware-whispers",
       "part": null,
       "summary": "Turning a few noisy seconds of sound into a constellation of stars.",
-      "tags": [
-        "audio",
-        "python"
-      ],
+      "tags": [],
       "minutes": 4,
-      "draft": false
+      "draft": false,
+      "lang": "en",
+      "translation": null
     }
   ],
   "series": {
     "ai-archaeology": {
       "name": "AI Archaeology",
-      "description": "AI history, dug up one layer at a time",
+      "description": "how AI came to be, and how each piece actually works",
       "parts": 7
     },
     "fiction-to-function": {
@@ -29,6 +28,10 @@
     "plateau-coach": {
       "name": "Plateau Coach",
       "description": "my road from B2 to C1"
+    },
+    "hardware-whispers": {
+      "name": "Hardware Whispers",
+      "description": "what machines do quietly, under the hood"
     }
   },
   "concepts": {

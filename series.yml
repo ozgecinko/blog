@@ -1,11 +1,14 @@
 # key used in a post's `series:` → how the site shows it
 ai-archaeology:
   name: AI Archaeology
-  description: AI history, dug up one layer at a time
-  parts: 7            # optional: total planned parts, shows "1 of 7"
+  description: how AI came to be, and how each piece actually works
+  parts: 7 # optional: total planned parts, shows "1 of 7"
 fiction-to-function:
   name: Fiction to Function
   description: a story idea, built into a real system
 plateau-coach:
   name: Plateau Coach
   description: my road from B2 to C1
+hardware-whispers:
+  name: Hardware Whispers
+  description: what machines do quietly, under the hood # no parts: an open-ended category
